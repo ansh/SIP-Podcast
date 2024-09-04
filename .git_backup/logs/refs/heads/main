@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 1450022361e73341bfbde7d111976c35da7129e1 Ansh <anshnanda10@gmail.com> 1724891510 +0000	branch: Created from origin/main
+1450022361e73341bfbde7d111976c35da7129e1 2cfcc1dd858bad3e85789fbdd5a46777989b10e9 Ansh <anshnanda10@gmail.com> 1724893255 +0000	commit: Update readme
+2cfcc1dd858bad3e85789fbdd5a46777989b10e9 69d38201a8cd6526323cc24239c5899a85edde9f Ansh <anshnanda10@gmail.com> 1725242809 +0000	commit: organize template better & add .cursorrules
+69d38201a8cd6526323cc24239c5899a85edde9f c85e538357eb88430cce447f34d21f4ae262c110 Ansh Nanda <anshnanda10@gmail.com> 1725388449 +0000	commit (merge): Merge branch 'main' of https://github.com/ansh/template-2
+c85e538357eb88430cce447f34d21f4ae262c110 575a4bba60943ed19034fc6903f544472939a3a4 Ansh Nanda <anshnanda10@gmail.com> 1725389350 +0000	commit: reset template
+575a4bba60943ed19034fc6903f544472939a3a4 9faf9ccd2400c5226924333987945dc4bca3048a Ansh Nanda <anshnanda10@gmail.com> 1725389473 +0000	commit: reset template
+9faf9ccd2400c5226924333987945dc4bca3048a b76c86732c00c5757db8d6b0a73df1b2bfedc1f2 Ansh Nanda <anshnanda10@gmail.com> 1725393457 +0000	commit: remove useless utils
+b76c86732c00c5757db8d6b0a73df1b2bfedc1f2 51dfbb2e61c95d6cc014112140534ee565a2b128 Ansh Nanda <anshnanda10@gmail.com> 1725393880 +0000	commit: add rules
+51dfbb2e61c95d6cc014112140534ee565a2b128 1604c2116ca8c8442743f7f2159f5b5d7c0d5868 Ansh Nanda <anshnanda10@gmail.com> 1725394644 +0000	commit: make sign in simpler
+1604c2116ca8c8442743f7f2159f5b5d7c0d5868 c107b780a682c371a0dedca3ee0309f7eca823ab Ansh <anshnanda10@gmail.com> 1725480172 +0000	commit: firebase utils update
+c107b780a682c371a0dedca3ee0309f7eca823ab c107b780a682c371a0dedca3ee0309f7eca823ab Ansh <anshnanda10@gmail.com> 1725480287 +0000	Branch: renamed refs/heads/main to refs/heads/main
